@@ -1,1 +1,5 @@
-dafasfa
+-git add . -dodanie wszystkich we folderze
+-git commit -m "wiadomosc"
+-git push
+-git log
+-git status
